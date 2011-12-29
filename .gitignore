@@ -1,0 +1,8 @@
+.*.sw[a-z]
+*.un~
+Session.vim
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
