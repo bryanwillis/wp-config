@@ -1,1 +1,1 @@
-# Wordpress config file 
+# Wordpress configuration file 
