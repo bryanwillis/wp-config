@@ -107,6 +107,8 @@ define('WP_CONTENT_URL', WP_SITEURL . '/wp-content');
 define('WP_PLUGIN_DIR', dirname(__FILE__) . '/wp-content/plugins');
 define('WP_PLUGIN_URL', WP_SITEURL . '/wp-content/plugins');
 define('PLUGINDIR', dirname(__FILE__) . '/wp-content/plugins');
+define('WPMU_PLUGIN_DIR', dirname(__FILE__) . '/wp-content/mu-plugins');
+define('WPMU_PLUGIN_URL', WP_SITEURL . '/wp-content/mu-plugins');
 
 /**
  * Modify AutoSave Interval
